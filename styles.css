@@ -91,3 +91,7 @@ ul {
 .header-content-text {
     width: 500px;
 }
+
+.header-content-text button {
+    margin-top: 30px;
+}
