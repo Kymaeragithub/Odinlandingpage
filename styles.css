@@ -42,3 +42,10 @@ ul {
     color: #E5E7EB;
 }
 
+.header-section h1 {
+    font-size: 48px;
+    font-family: monospace;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
+
