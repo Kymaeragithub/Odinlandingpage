@@ -49,3 +49,19 @@ ul {
     color: #F9FAF8;
 }
 
+.header-section p {
+    font-size: 18px;
+    font-family: monospace;
+    color: #E5E7EB;
+}
+
+.header-section button {
+    height: 40px;
+    width: 150px;
+    font-size: 15px;
+    font-family: monospace;
+    background-color: #3882F6;
+    border-color: transparent;
+    border-radius: 15px;
+    color: #F9FAF8;
+}
