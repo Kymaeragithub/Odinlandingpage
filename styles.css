@@ -12,10 +12,12 @@
     color: #F9FAF8;
     font-size: 24px;
     text-decoration: none;
+    font-family: monospace;
 }
 
 .nav-links {
     font-size: 18px;
+    font-family: monospace;
     color: #E5E7EB;
 }
 
