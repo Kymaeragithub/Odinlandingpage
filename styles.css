@@ -77,3 +77,12 @@ ul {
     width: auto;
     display: block;
 }
+
+.header-content {
+    display: flex; 
+    flex-flow: row wrap; 
+}
+
+.header-content-text {
+    width: 50%;
+}
