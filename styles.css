@@ -136,3 +136,9 @@ h2 {
 .quote-section {
     background-color: #E5E7EB
 }
+
+.quote {
+    width: 75%;
+    height: 300px;
+
+}
