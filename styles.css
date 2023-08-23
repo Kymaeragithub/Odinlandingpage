@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+/* header section start */
 .header-section {
     background-color: #1F2937;
 }
@@ -95,3 +96,4 @@ ul {
 .header-content-text button {
     margin-top: 30px;
 }
+/* header section end */ 
